@@ -1,3 +1,8 @@
+> [!NOTE]  
+> This has Repo moved to [BernieDevStudio](https://github.com/BernieDevStudio/MyCMD)
+<p>
+
+
 <p align="center">██╗░░░███╗██╗░░░██╗░█████╗░███╗░░░███╗██████╗░
 ████╗░████║╚██╗░██╔╝██╔══██╗████╗░████║██╔══██╗
 ██╔████╔██║░╚████╔╝░██║░░╚═╝██╔████╔██║██║░░██║
